@@ -43,7 +43,7 @@ Gain insights into setting up automated development pipelines, boosting efficien
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
 
 
-          TEAM ROLES
+          "TEAM ROLES"
 Business analyst (BA)
 Understands customer’s business processes
 
